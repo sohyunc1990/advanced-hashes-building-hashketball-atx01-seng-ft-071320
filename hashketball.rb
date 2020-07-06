@@ -3,16 +3,16 @@ require 'pry'
 def game_hash
   {
     home: {
-     team_name: => "",
+     team_name: "",
      color: [],
-     players => {}
+     players: {}
    },
    
    
-   home = {
-     team_name => "",
-     color => [],
-     players => {}
+   home: {
+     team_name: "",
+     color: [],
+     players: {}
    }
     
   }
