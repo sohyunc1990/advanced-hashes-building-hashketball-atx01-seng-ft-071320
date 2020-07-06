@@ -1,5 +1,5 @@
 # Write your code here!
-require 'pry'
+
 def game_hash
   {
    :home => {
@@ -124,4 +124,3 @@ def game_hash
    }
   }
 end
-  binding.pry
