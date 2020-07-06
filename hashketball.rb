@@ -2,9 +2,9 @@
 require 'pry'
 def game_hash
   {
-    home = {
-     team_name => "",
-     color => [],
+    home: {
+     team_name: => "",
+     color: [],
      players => {}
    },
    
